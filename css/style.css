@@ -1,0 +1,32 @@
+body {
+	background-image: 
+		url(../assets/img/home.jpg);
+ background-attachment: flexible;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: 50%;
+ 
+}
+
+p{
+font-size: 1.5rem !important;
+font-family: Montserrat;
+font-style: normal;
+font-weight: lighter;
+line-height: 120px;
+
+
+}
+h1{
+position: absolute;
+width: 838px;
+height: 78px;
+left: 357px;
+top: 558px
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+
+}
+
